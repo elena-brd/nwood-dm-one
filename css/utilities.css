@@ -1,0 +1,49 @@
+.grid-light-border {
+    border-top: 15px solid #fefae0;
+    border-bottom: 5px solid #fefae0;
+}
+
+.grid-primary-border {
+    border-top: 15px solid #dda15e;
+    border-bottom: 15px solid #dda15e;
+}
+
+
+.bg-primary {
+    background: #dda15e;
+}
+
+
+.bg-light {
+    background: #fefae0;
+    color: #292929;
+}
+
+.btn {
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 5px;
+    transition: all 0.3s ease-in;
+}
+
+.btn-primary {
+    background: #bc6c25;
+    color: #fefae0;
+}
+
+.btn-primary:hover {
+    background: #dda15e;
+    color: #292929;
+}
+
+.btn-secondary {
+    background: #bc6c25;
+    color: #fefae0;
+}
+
+.btn-secondary:hover {
+    background: #5f3a0f;
+    color: #fefae0;
+}
